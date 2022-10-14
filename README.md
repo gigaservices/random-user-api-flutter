@@ -2,7 +2,7 @@
 
 ### O projeto será uma aplicação em Flutter composta pelos itens abaixo: 
 
-#### 1. Consultar uma lista de usuários da API https://randomuser.me/api/, exibindo o resultado na aplicação.
+#### 1. Consultar uma lista de usuários da API https://randomuser.me/api/, exibindo os resultados em uma lista na tela.
 
 - Use os seguintes parâmetros na consulta:
 
