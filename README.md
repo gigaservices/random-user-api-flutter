@@ -8,7 +8,7 @@
 
   - format=json
   - page=*numero_da_pagina*
-  - results=15
+  - results=20
   - inc=gender,name,email,picture
   - nat=br
 
